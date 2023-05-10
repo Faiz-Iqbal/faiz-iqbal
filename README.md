@@ -1,6 +1,6 @@
-### Hi there I'm Faiz 👋
+# Hi there I'm Faiz 👋
 
-# About me 👨‍🎓:
+## About me 👨‍🎓:
 
 🎓 A software engineer currently in my 3rd year of BSc Computer Science & Artificial Intelligence (Hons)
 
@@ -9,6 +9,18 @@
 🌍  I am particularly interested in the intersection of technology and sustainability, and am excited to work on projects that will make a difference in our world.
 
 🧑‍🤝‍🧑  I am also actively involved in various extracurricular activities such as the University's Google Developers and tech club, where I am able to connect with like-minded individuals and further develop my skills. I am always on the lookout for new opportunities to learn and grow, and I am excited to see where my computer science education will take me in the future.
+
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiziqbal/)
+
+
+
+
+
+
+
+
+
 
 <!--
 **Faiz-Iqbal/faiz-iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
