@@ -11,7 +11,10 @@
 🧑‍🤝‍🧑  I am also actively involved in various extracurricular activities such as the University's Google Developers and tech club, where I am able to connect with like-minded individuals and further develop my skills. I am always on the lookout for new opportunities to learn and grow, and I am excited to see where my computer science education will take me in the future.
 
 ## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiziqbal/)
+<a href="https://www.linkedin.com/in/faiziqbal/">
+        <img alt="LinkedIn" title="My LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2">
+    </a>
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiziqbal/) -->
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -47,6 +50,7 @@
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiz-Iqbal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz-Iqbal)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Faiz-Iqbal&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
