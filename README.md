@@ -8,7 +8,7 @@
 
 🌍  I am particularly interested in the intersection of technology and sustainability, and am excited to work on projects that will make a difference in our world.
 
-🧑‍🤝‍🧑  I am also actively involved in various extracurricular activities such as the University's Google Developers and tech club, where I am able to connect with like-minded individuals and further develop my skills. I am always on the lookout for new opportunities to learn and grow, and I am excited to see where my computer science education will take me in the future.
+🧑‍🤝‍🧑  I am also actively involved in various extracurricular activities such as the University's Google Developers Students and tech club, where I am able to connect with like-minded individuals and further develop my skills. I am always on the lookout for new opportunities to learn and grow, and I am excited to see where my computer science education will take me in the future.
 
 ## 📫 Connect with me:
 <a href="https://www.linkedin.com/in/faiziqbal/">
