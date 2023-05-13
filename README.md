@@ -45,7 +45,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz-Iqbal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz-Iqbal&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 [![](https://visitcount.itsvg.in/api?id=Faiz-Iqbal&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
