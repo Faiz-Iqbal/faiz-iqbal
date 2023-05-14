@@ -57,7 +57,7 @@
 [![](https://visitcount.itsvg.in/api?id=Faiz-Iqbal&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## Programming Joke of the Day
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt)
 
 <!--
 
