@@ -2,7 +2,7 @@
 
 ## About me 👨‍🎓:
 
-🎓 A software engineer currently studying Computer Science & Artificial Intelligence
+🎓 A Computer Scientist currently studying Computer Science & Artificial Intelligence
 
 💻 As a computer science student, I am driven by a passion for technology and a desire to make an impact in the field. I am currently honing my skills in programming languages such as Java, C, and Python, and am eager to apply my knowledge to real-world projects.
 
