@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="184" viewBox="0 0 960 184" role="img" aria-labelledby="title">
+  <title id="title">Mohammed Faiz Iqbal</title>
+  <defs>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="8" r="1.4" fill="#384235"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="184" rx="14" fill="#141414"/>
+  <rect x="672" y="16" width="256" height="152" fill="url(#grid)"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M712 136h48V72h128 M760 104h64v32h64" stroke="#43553f" stroke-width="3"/>
+    <path d="M712 136h48V72h128" stroke="#7ea172" stroke-width="4"/>
+  </g>
+  <g fill="#141414" stroke="#7ea172" stroke-width="3">
+    <circle cx="712" cy="136" r="6"/><circle cx="888" cy="72" r="6"/>
+  </g>
+  <path d="M42 48h40" stroke="#7ea172" stroke-width="5"/>
+  <text x="40" y="125" fill="#ededed" font-family="Mulish, Arial, sans-serif" font-size="54" font-weight="700">Mohammed Faiz Iqbal</text>
+</svg>
